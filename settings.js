@@ -23,24 +23,24 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['919539901834'] //ur owner number
 global.ownernomer = "919539901834" //ur owner number2
-global.ownername = "𝙛𝙖𝙡𝙨𝙚 𝙚𝙮𝙚" //ur owner name
-global.ytname = "YT: false_eye" //ur yt chanel name
-global.socialm = "GitHub: false-eye" //ur github or insta name
+global.ownername = "false eye :)" //ur owner name
+global.ytname = "TG : @false_eye" //ur yt chanel name
+global.socialm = "Instagram: @false_eye" //ur github or insta name
 global.location = "India, Kerala, Kochi" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
+global.botname = "9ine.x3"
 global.ownernumber = '919539901834'
-global.ownername = '𝙛𝙖𝙡𝙨𝙚 𝙚𝙮𝙚'
+global.ownername = 'false eye :)'
 global.ownerNumber = ["919539901834@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@false_eye"
+global.ownerweb = "https://t.me/sarca_stics"
 global.websitex = "https://instagram.com/false_eye"
 global.wagc = "https://t.me/sarca_stics"
-global.themeemoji = '🧿'
-global.wm = "₆⁶₆"
+global.themeemoji = '💤'
+global.wm = "9ine.x3"
 global.botscript = 'https://github.com/false-eye' //script link
-global.packname = "𝙎𝙖𝙧𝙘𝙖𝙨𝙩𝙞𝙘 𝙋𝙖𝙘𝙠"
-global.author = "@𝙛𝙖𝙡𝙨𝙚_𝙚𝙮𝙚\n\n"
+global.packname = "9ine.x3"
+global.author = "@false_eye"
 global.creator = "919539901834@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
